@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret": "nevermore",
+    "salt": "mern salt",
+    "mongoUri": "mongodb+srv://vildanov:123456Qq@cluster0.4sqig.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
